@@ -1,0 +1,4 @@
+first clone the file
+made the changes add it into staging
+commit the file
+push the file
