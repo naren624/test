@@ -2,3 +2,13 @@ first clone the file
 made the changes add it into staging
 commit the file
 push the file
+
+
+To create a branch
+git branch feature/login
+
+To switch to the particular branch
+git switch feature/login
+
+TO create and switch to the branch in same time
+git switch -c feature/login
